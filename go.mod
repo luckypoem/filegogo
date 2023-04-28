@@ -1,4 +1,4 @@
-module github.com/a-wing/filegogo
+module github.com/luckypoem/filegogo
 
 go 1.18
 
